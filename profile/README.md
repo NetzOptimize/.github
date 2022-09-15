@@ -16,6 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanvision&show_icons=true&locale=en&layout=compact" alt="amanvision" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanvision&show_icons=true&locale=en" alt="amanvision" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanvision&" alt="amanvision" /></p>
