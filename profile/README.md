@@ -123,3 +123,25 @@
                 <li>Jira</li>
             </ul>
 
+
+h2>International Subcontracting</h2>
+        <p>We have been internationally subcontracting for Marketing companies, Web and Application Design/Development Companies, Graphic Design Firms, and freelancers since 2006, implementing industry best practices through a Lean-Six Sigma approach.</p>
+
+<h2>We'd Love to Hear About Your Project</h2>
+        <p>Contact us today, and let's discuss how NetzOptimize can bring your ideas to life and propel your business forward. We're excited to be your partner in software excellence.</p>
+
+<h2>Locations</h2>
+        <ul>
+            <li>Miami, Florida</li>
+            <li>Vancouver, Canada</li>
+            <li>Chandigarh, India</li>
+        </ul>
+
+<h2>Contact Information</h2>
+        <p>
+            <strong>Phone:</strong> 786-502-6272
+            <br>
+            <strong>Email:</strong> <a href="mailto:contact@netzoptimize.com">contact@netzoptimize.com</a>
+        </p>
+        <p>Visit our website at <a href="https://www.netzoptimize.com" target="_blank">NetzOptimize.com</a> for more information and to explore our portfolio. Join us in shaping the future of software and technology.</p>
+
