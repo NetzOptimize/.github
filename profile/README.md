@@ -16,6 +16,8 @@
 <br><br />
 <br><br />
 <br><br />
+<br><br />
+<br><br />
  <h2 align="left">About Us</h2>
         <p>NetzOptimize was founded in 2003 by a visionary business couple from Germany and has since evolved into a thriving team of 45 dedicated professionals. In 2006, we officially incorporated in Vancouver, Canada, and in 2017, we expanded our operations by establishing a service center in sunny Miami, Florida.</p>
 
