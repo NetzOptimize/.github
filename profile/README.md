@@ -12,39 +12,6 @@
 <p><img align="left" src="https://netzoptimize.us/scripts/github_lang_profile.png" alt="Programming Languages" /></p>
 
 
-
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>NetzOptimize Inc.</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        h1 {
-            font-size: 28px;
-        }
-
-        h2 {
-            font-size: 24px;
-            color: #3366cc;
-        }
-
-        h3 {
-            font-size: 20px;
-            color: #666;
-        }
-
-        p {
-            font-size: 16px;
-        }
-    </style>
-</head>
-
-<body>
     <header>
         <h1>Welcome to NetzOptimize Inc. - Your Partner in Software Excellence</h1>
     </header>
