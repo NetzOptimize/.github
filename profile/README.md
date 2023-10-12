@@ -24,3 +24,17 @@
 <p>We are an innovative software, web/application development, and graphic design firm with a passionate team of highly skilled experts. Our mission is to provide top-notch service to marketing companies, web/application development firms, and end clients, delivering cutting-edge websites and software applications tailored to your unique needs.</p>
 
 <p>At NetzOptimize, we understand the strategic use of technology and how it can transform your ideas and visions into tangible solutions that can drive your business forward and enhance its efficiency. We're committed to building lasting relationships with all our clients.</p>
+
+<h3>Our Specialized Team</h3>
+        <ul>
+            <li>Software Engineers</li>
+            <li>Process Engineers</li>
+            <li>Content Writers</li>
+            <li>Graphic Designers</li>
+            <li>Programmers</li>
+            <li>QA Specialists</li>
+            <li>UI/UX Specialists</li>
+            <li>Project Managers</li>
+        </ul>
+        <p>We work cohesively as a power team of 35 specialists, collaborating to provide the most effective and profound websites and software applications.</p>
+
