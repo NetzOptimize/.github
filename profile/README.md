@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://netzoptimize.us/scripts/github_lang_profile.png" alt="Programming Languages" /></p>
 
-
+<p>
 NetzOptimize Inc.
 Welcome to NetzOptimize Inc. - Your Partner in Software Excellence
 
@@ -156,5 +156,5 @@ Contact Information
 Phone: 786-502-6272
 Email: contact@netzoptimize.com
 Visit our website at NetzOptimize.com for more information and to explore our portfolio. Join us in shaping the future of software and technology.
-
+</p>
 
