@@ -10,3 +10,203 @@
 
 
 <p><img align="left" src="https://netzoptimize.us/scripts/github_lang_profile.png" alt="Programming Languages" /></p>
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>NetzOptimize Inc.</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            font-size: 28px;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #3366cc;
+        }
+
+        h3 {
+            font-size: 20px;
+            color: #666;
+        }
+
+        p {
+            font-size: 16px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to NetzOptimize Inc. - Your Partner in Software Excellence</h1>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>NetzOptimize was founded in 2003 by a visionary business couple from Germany and has since evolved into a thriving team of 45 dedicated professionals. In 2006, we officially incorporated in Vancouver, Canada, and in 2017, we expanded our operations by establishing a service center in sunny Miami, Florida.</p>
+
+        <p>We are an innovative software, web/application development, and graphic design firm with a passionate team of highly skilled experts. Our mission is to provide top-notch service to marketing companies, web/application development firms, and end clients, delivering cutting-edge websites and software applications tailored to your unique needs.</p>
+
+        <p>At NetzOptimize, we understand the strategic use of technology and how it can transform your ideas and visions into tangible solutions that can drive your business forward and enhance its efficiency. We're committed to building lasting relationships with all our clients.</p>
+    </section>
+
+    <section id="team">
+        <h3>Our Specialized Team</h3>
+        <ul>
+            <li>Software Engineers</li>
+            <li>Process Engineers</li>
+            <li>Content Writers</li>
+            <li>Graphic Designers</li>
+            <li>Programmers</li>
+            <li>QA Specialists</li>
+            <li>UI/UX Specialists</li>
+            <li>Project Managers</li>
+        </ul>
+        <p>We work cohesively as a power team of 35 specialists, collaborating to provide the most effective and profound websites and software applications.</p>
+    </section>
+
+    <section id="expertise">
+        <h3>Our Expertise</h3>
+        <div>
+            <h4>Front-end Technologies</h4>
+            <ul>
+                <li>Angular.JS</li>
+                <li>React Js</li>
+                <li>Next.js</li>
+                <li>Vue.js</li>
+                <li>Vanilla-JS</li>
+                <li>TypeScript</li>
+                <li>Bootstrap</li>
+                <li>Tailwind CSS</li>
+                <li>Sass</li>
+                <li>PHP</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>Back-end Technologies</h4>
+            <ul>
+                <li>Node.JS</li>
+                <li>Express.js</li>
+                <li>NestJs</li>
+                <li>Laravel</li>
+                <li>PHP</li>
+                <li>Laravel</li>
+                <li>Symphony</li>
+                <li>CodeIgniter</li>
+                <li>APIs/REST</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>Databases</h4>
+            <ul>
+                <li>MongoDB</li>
+                <li>MS SQL</li>
+                <li>MySQL</li>
+                <li>Firebase</li>
+                <li>Realm</li>
+                <li>DynamoDB</li>
+                <li>PostgreSQL</li>
+                <li>Redis</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>Source Control</h4>
+            <ul>
+                <li>GitHub</li>
+                <li>BitBucket</li>
+                <li>Heroku</li>
+                <li>GitLab</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>Frameworks</h4>
+            <ul>
+                <li>PHP custom</li>
+                <li>Laravel</li>
+                <li>Lumen</li>
+                <li>Zend</li>
+                <li>Cake</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>Content Management Systems (CMS)</h4>
+            <ul>
+                <li>WordPress</li>
+                <li>Shopify</li>
+                <li>Wix</li>
+                <li>Squarespace</li>
+                <li>Plugin development</li>
+                <li>ACF</li>
+                <li>Gravity Forms</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>QA Tools / Practices</h4>
+            <ul>
+                <li>Formal Test Planning</li>
+                <li>Execution</li>
+                <li>Test Automation</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>Project Management Tools</h4>
+            <ul>
+                <li>Basecamp</li>
+                <li>Hubstaff</li>
+                <li>Monday.com</li>
+                <li>Asana</li>
+                <li>Slack</li>
+                <li>Bugzilla</li>
+                <li>Jira</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="branding">
+        <h2>Visual Branding / UX Design</h2>
+        <p>Stand out from the crowd with our dedicated team. We offer:</p>
+        <ul>
+            <li>Taking your brand to the next level</li>
+            <li>Building a strong online presence</li>
+            <li>Providing a strategic UX approach</li>
+            <li>Delivering a strategic design aesthetic solution</li>
+        </ul>
+    </section>
+
+    <section id="ui-solutions">
+        <h3>UI Solutions</h3>
+        <p>We create great designs and offer superior technical expertise in:</p>
+        <ul>
+            <li>Angular JS</li>
+            <li>jQuery</li>
+            <li>Bootstrap</li>
+            <li>Foundation</li>
+            <li>React JS</li>
+            <li>Vue.js</li>
+        </ul>
+    </section>
+
+    <section id="web-development">
+        <h3>Web Development</h3>
+        <p>Our team leverages cutting-edge technologies to build custom web applications that are stunning, robust, and scalable. We specialize in:</p>
+        <ul>
+            <li>Custom Application Development</li>
+            <li>PHP, Laravel, CodeIgniter, CakePHP</li>
+            <li>Content Management System (CMS)</li>
+            <li
+
