@@ -34,7 +34,7 @@
         <p>We work cohesively as a power team of 35 specialists, collaborating to provide the most effective and profound websites and software applications.</p>
 
         <h3>Our Expertise</h3>
-        <div>
+      
             <h4>Front-end Technologies</h4>
             <ul>
                 <li>Angular.JS</li>
@@ -48,9 +48,8 @@
                 <li>Sass</li>
                 <li>PHP</li>
             </ul>
-        </div>
+ 
 
-        <div>
             <h4>Back-end Technologies</h4>
             <ul>
                 <li>Node.JS</li>
@@ -63,9 +62,8 @@
                 <li>CodeIgniter</li>
                 <li>APIs/REST</li>
             </ul>
-        </div>
 
-        <div>
+
             <h4>Databases</h4>
             <ul>
                 <li>MongoDB</li>
@@ -77,9 +75,7 @@
                 <li>PostgreSQL</li>
                 <li>Redis</li>
             </ul>
-        </div>
 
-        <div>
             <h4>Source Control</h4>
             <ul>
                 <li>GitHub</li>
@@ -87,9 +83,7 @@
                 <li>Heroku</li>
                 <li>GitLab</li>
             </ul>
-        </div>
 
-        <div>
             <h4>Frameworks</h4>
             <ul>
                 <li>PHP custom</li>
@@ -98,9 +92,7 @@
                 <li>Zend</li>
                 <li>Cake</li>
             </ul>
-        </div>
 
-        <div>
             <h4>Content Management Systems (CMS)</h4>
             <ul>
                 <li>WordPress</li>
@@ -111,18 +103,14 @@
                 <li>ACF</li>
                 <li>Gravity Forms</li>
             </ul>
-        </div>
-
-        <div>
+ 
             <h4>QA Tools / Practices</h4>
             <ul>
                 <li>Formal Test Planning</li>
                 <li>Execution</li>
                 <li>Test Automation</li>
             </ul>
-        </div>
 
-        <div>
             <h4>Project Management Tools</h4>
             <ul>
                 <li>Basecamp</li>
@@ -133,7 +121,6 @@
                 <li>Bugzilla</li>
                 <li>Jira</li>
             </ul>
-        </div>
 
         <h2>Visual Branding / UX Design</h2>
         <p>Stand out from the crowd with our dedicated team. We offer:</p>
