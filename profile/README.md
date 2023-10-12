@@ -36,5 +36,90 @@
             <li>UI/UX Specialists</li>
             <li>Project Managers</li>
         </ul>
-        <p>We work cohesively as a power team of 35 specialists, collaborating to provide the most effective and profound websites and software applications.</p>
+        <p>We work cohesively as a power team of specialists, collaborating to provide the most effective and profound websites and software applications.</p>
+
+<h3>Our Expertise</h3>
+<h4>Front-end Technologies</h4>
+            <ul>
+                <li>Angular.JS</li>
+                <li>React Js</li>
+                <li>Next.js</li>
+                <li>Vue.js</li>
+                <li>Vanilla-JS</li>
+                <li>TypeScript</li>
+                <li>Bootstrap</li>
+                <li>Tailwind CSS</li>
+                <li>Sass</li>
+                <li>PHP</li>
+            </ul>
+
+ <h4>Back-end Technologies</h4>
+            <ul>
+                <li>Node.JS</li>
+                <li>Express.js</li>
+                <li>NestJs</li>
+                <li>Laravel</li>
+                <li>PHP</li>
+                <li>Laravel</li>
+                <li>Symphony</li>
+                <li>CodeIgniter</li>
+                <li>APIs/REST</li>
+            </ul>
+
+<h4>Databases</h4>
+            <ul>
+                <li>MongoDB</li>
+                <li>MS SQL</li>
+                <li>MySQL</li>
+                <li>Firebase</li>
+                <li>Realm</li>
+                <li>DynamoDB</li>
+                <li>PostgreSQL</li>
+                <li>Redis</li>
+            </ul>
+
+<h4>Source Control</h4>
+            <ul>
+                <li>GitHub</li>
+                <li>BitBucket</li>
+                <li>Heroku</li>
+                <li>GitLab</li>
+            </ul>
+            
+ <h4>Frameworks</h4>
+            <ul>
+                <li>PHP custom</li>
+                <li>Laravel</li>
+                <li>Lumen</li>
+                <li>Zend</li>
+                <li>Cake</li>
+            </ul>
+
+<h4>Content Management Systems (CMS)</h4>
+            <ul>
+                <li>WordPress</li>
+                <li>Shopify</li>
+                <li>Wix</li>
+                <li>Squarespace</li>
+                <li>Plugin development</li>
+                <li>ACF</li>
+                <li>Gravity Forms</li>
+            </ul>
+
+<h4>QA Tools / Practices</h4>
+            <ul>
+                <li>Formal Test Planning</li>
+                <li>Execution</li>
+                <li>Test Automation</li>
+            </ul>
+<h4>Project Management Tools</h4>
+            <ul>
+                <li>Basecamp</li>
+                <li>Hubstaff</li>
+                <li>Monday.com</li>
+                <li>Asana</li>
+                <li>Slack</li>
+                <li>Bugzilla</li>
+                <li>Jira</li>
+            </ul>
 
