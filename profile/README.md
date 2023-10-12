@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://netzoptimize.us/scripts/github_lang_profile.png" alt="Programming Languages" /></p><br><br />
 
- <h2 align="left">About Us</h2>
+ <h2 align="left">About Us__</h2>
         <p>NetzOptimize was founded in 2003 by a visionary business couple from Germany and has since evolved into a thriving team of 45 dedicated professionals. In 2006, we officially incorporated in Vancouver, Canada, and in 2017, we expanded our operations by establishing a service center in sunny Miami, Florida.</p>
 
         <p>We are an innovative software, web/application development, and graphic design firm with a passionate team of highly skilled experts. Our mission is to provide top-notch service to marketing companies, web/application development firms, and end clients, delivering cutting-edge websites and software applications tailored to your unique needs.</p>
