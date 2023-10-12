@@ -208,5 +208,6 @@
             <li>Custom Application Development</li>
             <li>PHP, Laravel, CodeIgniter, CakePHP</li>
             <li>Content Management System (CMS)</li>
-            <li
+        </ul>
+    </section>
 
