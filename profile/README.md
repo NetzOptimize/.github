@@ -12,20 +12,14 @@
 <p><img align="left" src="https://netzoptimize.us/scripts/github_lang_profile.png" alt="Programming Languages" /></p>
 
 
-    <header>
-        <h1>Welcome to NetzOptimize Inc. - Your Partner in Software Excellence</h1>
-    </header>
 
-    <section id="about">
         <h2>About Us</h2>
         <p>NetzOptimize was founded in 2003 by a visionary business couple from Germany and has since evolved into a thriving team of 45 dedicated professionals. In 2006, we officially incorporated in Vancouver, Canada, and in 2017, we expanded our operations by establishing a service center in sunny Miami, Florida.</p>
 
         <p>We are an innovative software, web/application development, and graphic design firm with a passionate team of highly skilled experts. Our mission is to provide top-notch service to marketing companies, web/application development firms, and end clients, delivering cutting-edge websites and software applications tailored to your unique needs.</p>
 
         <p>At NetzOptimize, we understand the strategic use of technology and how it can transform your ideas and visions into tangible solutions that can drive your business forward and enhance its efficiency. We're committed to building lasting relationships with all our clients.</p>
-    </section>
-
-    <section id="team">
+ 
         <h3>Our Specialized Team</h3>
         <ul>
             <li>Software Engineers</li>
@@ -38,9 +32,7 @@
             <li>Project Managers</li>
         </ul>
         <p>We work cohesively as a power team of 35 specialists, collaborating to provide the most effective and profound websites and software applications.</p>
-    </section>
 
-    <section id="expertise">
         <h3>Our Expertise</h3>
         <div>
             <h4>Front-end Technologies</h4>
@@ -142,9 +134,7 @@
                 <li>Jira</li>
             </ul>
         </div>
-    </section>
 
-    <section id="branding">
         <h2>Visual Branding / UX Design</h2>
         <p>Stand out from the crowd with our dedicated team. We offer:</p>
         <ul>
@@ -153,9 +143,7 @@
             <li>Providing a strategic UX approach</li>
             <li>Delivering a strategic design aesthetic solution</li>
         </ul>
-    </section>
 
-    <section id="ui-solutions">
         <h3>UI Solutions</h3>
         <p>We create great designs and offer superior technical expertise in:</p>
         <ul>
@@ -166,9 +154,7 @@
             <li>React JS</li>
             <li>Vue.js</li>
         </ul>
-    </section>
 
-    <section id="web-development">
         <h3>Web Development</h3>
         <p>Our team leverages cutting-edge technologies to build custom web applications that are stunning, robust, and scalable. We specialize in:</p>
         <ul>
@@ -176,5 +162,5 @@
             <li>PHP, Laravel, CodeIgniter, CakePHP</li>
             <li>Content Management System (CMS)</li>
         </ul>
-    </section>
+
 
