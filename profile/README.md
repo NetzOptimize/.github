@@ -132,9 +132,10 @@
 
 <h2>Locations</h2>
         <ul>
+            <li>Chandigarh, India</li>
             <li>Miami, Florida</li>
             <li>Vancouver, Canada</li>
-            <li>Chandigarh, India</li>
+            
         </ul>
 
 <h2>Contact Information</h2>
