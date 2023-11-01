@@ -134,8 +134,7 @@
         <ul>
             <li>Chandigarh, India</li>
             <li>Miami, Florida</li>
-            <li>Vancouver, Canada</li>
-            
+            <li>Vancouver, Canada</li>    
         </ul>
 
 <h2>Contact Information</h2>
