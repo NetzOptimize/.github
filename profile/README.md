@@ -142,7 +142,7 @@
             <br>
             <strong>Schedule a Call:</strong> <a href="https://calendly.com/d/4gh-wk7-nmg/project-discussion">Click here
             <br>
-            <strong>Email:</strong> <a href="mailto:contact@netzoptimize.com">contact@netzoptimize.com</a>
+            <a href="mailto:contact@netzoptimize.com">contact@netzoptimize.com</a>
         </p>
         <p>Visit our website at <a href="https://www.netzoptimize.com" target="_blank">NetzOptimize.com</a> for more information and to explore our portfolio. 
          Join us in shaping the future of software and technology.</p>
