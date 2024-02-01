@@ -140,6 +140,8 @@
         <p>
             <strong>Phone:</strong> 786-502-6272
             <br>
+            <strong>Book a Call:</strong> https://calendly.com/d/4gh-wk7-nmg/project-discussion
+            <br>
             <strong>Email:</strong> <a href="mailto:contact@netzoptimize.com">contact@netzoptimize.com</a>
         </p>
         <p>Visit our website at <a href="https://www.netzoptimize.com" target="_blank">NetzOptimize.com</a> for more information and to explore our portfolio. 
