@@ -140,7 +140,7 @@
         <p>
             <strong>Phone:</strong> 786-502-6272
             <br>
-            <strong>Book a Call:</strong> https://calendly.com/d/4gh-wk7-nmg/project-discussion
+            <strong>Schedule a Call:</strong> <a href="https://calendly.com/d/4gh-wk7-nmg/project-discussion">Click here
             <br>
             <strong>Email:</strong> <a href="mailto:contact@netzoptimize.com">contact@netzoptimize.com</a>
         </p>
