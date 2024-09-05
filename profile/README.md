@@ -140,7 +140,7 @@
         <p>
             <strong>Phone:</strong> 786-502-6272
             <br>
-            <strong>Schedule a Call:</strong> <a href="https://calendly.com/d/4gh-wk7-nmg/project-discussion">Click here
+            <strong>Schedule a Call:</strong> <a href="https://meetings.hubspot.com/netzoptimize-team/consultation-meeting?__hstc=249202328.6f347f193ced89d00575ab891da41dbe.1725516084224.1725516084224.1725516084224.1&__hssc=249202328.1.1725516084224&__hsfp=2070463789&uuid=92b9a76e-0cac-4c54-bec5-c562d2759c03">Click here
             <br>
             <a href="mailto:contact@netzoptimize.com">contact@netzoptimize.com</a>
         </p>
